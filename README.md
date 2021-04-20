@@ -17,3 +17,7 @@ pip install pyttsx3
 
 Then thats it you got Jarvis working but keep in mind this is in Beta
 Thanks For the installation
+
+Make sure you check out our Trello:
+
+https://trello.com/b/x6ifu7TZ
